@@ -6,19 +6,19 @@ This function is similar to the get_headers function.
 
 ### Travis CI badge
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/get_header.svg?branch=master)](https://travis-ci.com/yakeing/get_header)
+[![Travis-ci](https://api.travis-ci.com/yakeing/get_header.svg?branch=main)](https://travis-ci.com/yakeing/get_header)
 
 ### codecov badge
 
-[![codecov](https://codecov.io/gh/yakeing/get_header/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/get_header)
+[![codecov](https://codecov.io/gh/yakeing/get_header/branch/main/graph/badge.svg)](https://codecov.io/gh/yakeing/get_header)
 
 ### Github badge
 
-[![Downloads](https://badging.now.sh/github/downloads/yakeing/get_header?icon=github)](../../)
-[![Size](https://badging.now.sh/github/size/yakeing/get_header?icon=github)](src)
-[![tag](https://badging.now.sh/github/tag/yakeing/get_header?icon=github)](../../releases)
-[![license](https://badging.now.sh/static/label/license/555/MPL-2.0/fe7d37?icon=github)](LICENSE)
-[![languages](https://badging.now.sh/static/label/language/555/PHP/34abef?icon=github)](../../search?l=php)
+[![Downloads](https://badging.tk/github/downloads/yakeing/get_header?icon=github)](../../)
+[![Size](https://badging.tk/github/size/yakeing/get_header?icon=github)](src)
+[![tag](https://badging.tk/github/tag/yakeing/get_header?icon=github)](../../releases)
+[![license](https://badging.tk/static/license/555/MPL-2.0/fe7d37?icon=github)](LICENSE)
+[![languages](https://badging.tk/static/language/555/PHP/34abef?icon=github)](../../search?l=php)
 
 ### Installation
 
@@ -97,7 +97,7 @@ Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/get_
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://badging.now.sh/static/label/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
+[![Sponsor](https://badging.tk/static/Sponsor/EA4AAA?icon=heart)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
  
 Author
 ---
